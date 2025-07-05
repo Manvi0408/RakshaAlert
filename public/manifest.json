@@ -1,0 +1,10 @@
+{
+  "name": "RakshaAlert - Women Safety Platform",
+  "short_name": "RakshaAlert",
+  "description": "Personal safety app with real-time emergency alerts and location sharing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fef2f2",
+  "theme_color": "#ef4444",
+  "icons": []
+}
